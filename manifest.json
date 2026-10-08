@@ -1,0 +1,53 @@
+{
+  "manifest_version": 3,
+  "name": "__MSG_appName__",
+  "short_name": "RepoNest",
+  "version": "1.4.0",
+  "description": "__MSG_appDesc__",
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://github.com/*"
+  ],
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "options_ui": {
+    "page": "options/options.html",
+    "open_in_tab": true
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://github.com/*"
+      ],
+      "js": [
+        "src/rules.js",
+        "src/content.js"
+      ],
+      "css": [
+        "src/content.css"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "default_locale": "en",
+  "homepage_url": "https://github.com/webgrupcom/reponest",
+  "background": {
+    "service_worker": "src/background.js"
+  },
+  "action": {
+    "default_title": "RepoNest",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon48.png"
+    }
+  }
+}

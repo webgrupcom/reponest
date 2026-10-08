@@ -1,0 +1,143 @@
+{
+  "appName": {
+    "message": "RepoNest – GitHub için klasörler"
+  },
+  "appDesc": {
+    "message": "GitHub organizasyonunun repo listesini ad önekine ya da etikete göre kendiliğinden klasörlere ayırır."
+  },
+  "title": {
+    "message": "Klasörler"
+  },
+  "loading": {
+    "message": "Repolar yükleniyor…"
+  },
+  "repos": {
+    "message": "repo"
+  },
+  "search": {
+    "message": "Klasörlerde ara…"
+  },
+  "expandAll": {
+    "message": "Tümünü aç"
+  },
+  "collapseAll": {
+    "message": "Tümünü kapat"
+  },
+  "refresh": {
+    "message": "Yenile"
+  },
+  "flatList": {
+    "message": "Düz liste"
+  },
+  "folderView": {
+    "message": "Klasör görünümü"
+  },
+  "viewList": {
+    "message": "Liste görünümü"
+  },
+  "viewGrid": {
+    "message": "Kare görünüm"
+  },
+  "noMatch": {
+    "message": "Eşleşen repo yok."
+  },
+  "loadFailed": {
+    "message": "Repolar alınamadı"
+  },
+  "other": {
+    "message": "Diğer"
+  },
+  "private": {
+    "message": "Gizli"
+  },
+  "public": {
+    "message": "Açık"
+  },
+  "archived": {
+    "message": "Arşiv"
+  },
+  "fork": {
+    "message": "Fork"
+  },
+  "optTitle": {
+    "message": "RepoNest ayarları"
+  },
+  "optHelp": {
+    "message": "Bir repo, adı listedeki ilk önekle başlayan klasöre düşer; önek tutmazsa etiketlerine bakılır. Tabloyu boş bırakırsan etikete göre kendiliğinden gruplar. Birden fazla önek ya da etiketi virgülle ayır."
+  },
+  "optColor": {
+    "message": "Renk"
+  },
+  "optFolder": {
+    "message": "Klasör"
+  },
+  "optPrefixes": {
+    "message": "Ad önekleri"
+  },
+  "optTopics": {
+    "message": "Etiketler"
+  },
+  "optAdd": {
+    "message": "+ Klasör ekle"
+  },
+  "optAuto": {
+    "message": "Otomatik (etikete göre)"
+  },
+  "optPreset": {
+    "message": "Örneği yükle"
+  },
+  "optSave": {
+    "message": "Kaydet"
+  },
+  "optDelete": {
+    "message": "Sil"
+  },
+  "optSaved": {
+    "message": "Kaydedildi. Açık GitHub sekmeleri kendiliğinden güncellenir."
+  },
+  "optAutoSaved": {
+    "message": "Etikete göre otomatik gruplama açık."
+  },
+  "sortName": {
+    "message": "Ad"
+  },
+  "sortUpdated": {
+    "message": "Son güncelleme"
+  },
+  "sortAsc": {
+    "message": "Artan"
+  },
+  "sortDesc": {
+    "message": "Azalan"
+  },
+  "sortBy": {
+    "message": "Sırala"
+  },
+  "badgeOn": {
+    "message": "ON"
+  },
+  "badgeOff": {
+    "message": "OFF"
+  },
+  "actionOn": {
+    "message": "RepoNest açık – kapatmak için tıkla"
+  },
+  "actionOff": {
+    "message": "RepoNest kapalı – açmak için tıkla"
+  },
+  "moveUp": {
+    "message": "Yukarı taşı"
+  },
+  "moveDown": {
+    "message": "Aşağı taşı"
+  },
+  "filter": {
+    "message": "Filtre"
+  },
+  "showAll": {
+    "message": "Hepsini göster"
+  },
+  "hideAll": {
+    "message": "Hepsini gizle"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "appName": {
+    "message": "RepoNest – Folders for GitHub"
+  },
+  "appDesc": {
+    "message": "Turn a GitHub organization's repository list into tidy folders, grouped automatically by name prefix or topic."
+  },
+  "title": {
+    "message": "Folders"
+  },
+  "loading": {
+    "message": "Loading repositories…"
+  },
+  "repos": {
+    "message": "repos"
+  },
+  "search": {
+    "message": "Search all folders…"
+  },
+  "expandAll": {
+    "message": "Expand all"
+  },
+  "collapseAll": {
+    "message": "Collapse all"
+  },
+  "refresh": {
+    "message": "Refresh"
+  },
+  "flatList": {
+    "message": "Flat list"
+  },
+  "folderView": {
+    "message": "Folder view"
+  },
+  "viewList": {
+    "message": "List view"
+  },
+  "viewGrid": {
+    "message": "Grid view"
+  },
+  "noMatch": {
+    "message": "No matching repositories."
+  },
+  "loadFailed": {
+    "message": "Couldn't load repositories"
+  },
+  "other": {
+    "message": "Other"
+  },
+  "private": {
+    "message": "Private"
+  },
+  "public": {
+    "message": "Public"
+  },
+  "archived": {
+    "message": "Archived"
+  },
+  "fork": {
+    "message": "Fork"
+  },
+  "optTitle": {
+    "message": "RepoNest settings"
+  },
+  "optHelp": {
+    "message": "A repository goes to the first folder whose name prefix matches; if no prefix matches, its topics are checked. Leave the table empty to group automatically by topic. Separate multiple prefixes or topics with commas."
+  },
+  "optColor": {
+    "message": "Color"
+  },
+  "optFolder": {
+    "message": "Folder"
+  },
+  "optPrefixes": {
+    "message": "Name prefixes"
+  },
+  "optTopics": {
+    "message": "Topics"
+  },
+  "optAdd": {
+    "message": "+ Add folder"
+  },
+  "optAuto": {
+    "message": "Automatic (by topic)"
+  },
+  "optPreset": {
+    "message": "Load example"
+  },
+  "optSave": {
+    "message": "Save"
+  },
+  "optDelete": {
+    "message": "Delete"
+  },
+  "optSaved": {
+    "message": "Saved. Open GitHub tabs update automatically."
+  },
+  "optAutoSaved": {
+    "message": "Automatic grouping by topic is on."
+  },
+  "sortName": {
+    "message": "Name"
+  },
+  "sortUpdated": {
+    "message": "Last updated"
+  },
+  "sortAsc": {
+    "message": "Ascending"
+  },
+  "sortDesc": {
+    "message": "Descending"
+  },
+  "sortBy": {
+    "message": "Sort by"
+  },
+  "badgeOn": {
+    "message": "ON"
+  },
+  "badgeOff": {
+    "message": "OFF"
+  },
+  "actionOn": {
+    "message": "RepoNest is on – click to turn off"
+  },
+  "actionOff": {
+    "message": "RepoNest is off – click to turn on"
+  },
+  "moveUp": {
+    "message": "Move up"
+  },
+  "moveDown": {
+    "message": "Move down"
+  },
+  "filter": {
+    "message": "Filter"
+  },
+  "showAll": {
+    "message": "Show all"
+  },
+  "hideAll": {
+    "message": "Hide all"
+  }
+}
